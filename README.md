@@ -1,111 +1,96 @@
-# AryamanRath0re
+<!-- Banner -->
+<p align="center">
+  <img src="https://github.com/aryamanrath0re/aryamanrath0re/assets/your-banner-placeholder.gif" alt="Banner" />
+</p>
 
 <h1 align="center">Hi 👋, I'm Aryaman Rathore</h1>
-<h3 align="center">A passionate Full Stack Developer from India</h3>
+<h3 align="center">🚀 A Passionate Full Stack Developer from India 🇮🇳</h3>
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=AryamanRath0re&label=Profile%20views&color=0e75b6&style=flat" alt="AryamanRath0re" />
+<p align="center">
+  <a href="https://github.com/aryamanrath0re">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=F7931E&center=true&width=435&lines=Full+Stack+Developer;Open+Source+Contributor;MERN+Stack+Lover;Tech+Enthusiast+%F0%9F%9A%80" alt="Typing SVG" />
+  </a>
 </p>
 
-- 🔭 I’m currently working on [Tinder For Developers](https://github.com/aryamanrathore/tinder-for-developers)
-
-- 🌱 I’m currently learning **ReactJS**
-
-- 👯 I’m looking to collaborate on [Open Source Collab](https://github.com/aryamanrathore/open-source-collab)
-
-- 🤝 I’m looking for help with [AI-Powered Resume Builder](https://github.com/aryamanrathore/ai-resume-builder)
-
-- 💬 Ask me about **DSA and Full Stack Development**
-
-- 📫 How to reach me **aryanrathore301@gmail.com**
-
-- 📄 Know about my experiences [Resume](https://aryamanrathore.dev/resume.pdf)
-
-- ⚡ Fun fact: I love turning complex code into simple memes that even my non-tech friends understand!
-
----
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://linkedin.com/in/aryamanrathore" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/linkedin.svg" alt="linkedin" height="30" width="40" />
-  </a>
-  <a href="https://twitter.com/aryamanrathore" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/twitter.svg" alt="twitter" height="30" width="40" />
-  </a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=aryamanrath0re&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
 ---
 
-<h3 align="left">Languages and Tools:</h3>
+### 🧑‍💻 About Me
+
+- 🔭 I’m currently working on [**Tinder For Developers**](https://github.com/aryamanrathore/tinder-for-developers)  
+- 🌱 I’m learning **ReactJS** & **TypeScript**  
+- 👯 Looking to collaborate on [Open Source Collab](https://github.com/aryamanrathore/open-source-collab)  
+- 💬 Ask me about **DSA, Web Dev, and Scaling Projects**  
+- 📫 Reach me: **aryanrathore301@gmail.com**  
+- 📝 I write on [Dev.to](https://dev.to/)  
+- 👨‍💻 Check out my [Portfolio](https://yourportfolio.com)  
+- 📄 Here's my [Resume](https://aryamanrathore.dev/resume.pdf)  
+- ⚡ Fun fact: I debug best with snacks 🍕 and lo-fi beats 🎧
+
+---
+
+### 🌐 Connect with Me
+
 <p align="left">
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
-  </a>
-  <a href="https://babeljs.io/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/>
-  </a>
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
-  </a>
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
-  </a>
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  </a>
-  <a href="https://www.nginx.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/>
-  </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-  </a>
-  <a href="https://redis.io" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/>
-  </a>
-  <a href="https://redux.js.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/>
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
-  </a>
-  <a href="https://unity.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/>
-  </a>
+  <a href="https://linkedin.com/in/aryamanrathore"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+  <a href="mailto:aryanrathore301@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://twitter.com/aryaman_codes"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
 </p>
 
 ---
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=AryamanRath0re&show_icons=true&locale=en&layout=compact" alt="AryamanRath0re" /></p>
+### 🛠️ Tech Stack
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AryamanRath0re&" alt="AryamanRath0re" /></p>
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
+![MongoDB](https://img.shields.io/badge/-MongoDB-4ea94b?style=flat-square&logo=mongodb)
+![Express](https://img.shields.io/badge/-Express-black?style=flat-square&logo=express)
+![Firebase](https://img.shields.io/badge/-Firebase-ffca28?style=flat-square&logo=firebase)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat-square&logo=tailwind-css)
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aryamanrath0re&show_icons=true&theme=tokyonight" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aryamanrath0re&theme=tokyonight" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryamanrath0re&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=aryamanrath0re&theme=onedark&no-frame=true&no-bg=true&margin-w=4" />
+</p>
+
+---
+
+### 💡 Quote of the Day
+
+> “Code is like humor. When you have to explain it, it’s bad.” — Cory House
+
+---
+
+### 🐍 Contribution Snake
+### 🐍 Contribution Snake
+
+<img src="https://github.com/AryamanRathr0re/AryamanRathr0re/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+
+
+---
+
+<p align="center">Made with ❤️ by Aryaman Rathore</p>

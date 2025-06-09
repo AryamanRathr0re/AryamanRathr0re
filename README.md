@@ -85,9 +85,9 @@
 
 ---
 
-### 🐍 Contribution Snake
 
-![Snake animation](https://raw.githubusercontent.com/AryamanRathr0re/AryamanRathr0re/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github-readme-stats.vercel.app/api/github-contribution-grid?username=AryamanRathr0re&theme=tokyonight&snake=true)
+
 
 ---
 

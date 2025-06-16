@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://github.com/AryamanRathr0re/AryamanRathr0re/assets/your-banner-placeholder.gif" alt="Banner" />
+  <img src="https://raw.githubusercontent.com/AryamanRathr0re/AryamanRathr0re/main/assets/banner.gif" alt="Banner" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Aryaman Rathore</h1>
@@ -26,7 +26,7 @@
 - 💬 Ask me about **DSA, Web Dev, and Scaling Projects**  
 - 📫 Reach me: **aryanrathore301@gmail.com**  
 - 📝 I write on [Dev.to](https://dev.to/)  
-- 👨‍💻 Check out my [Portfolio](https://yourportfolio.com)  
+- 👨‍💻 Check out my [Portfolio](https://aryamanrathore.dev)  
 - 📄 Here's my [Resume](https://aryamanrathore.dev/resume.pdf)  
 - ⚡ Fun fact: I debug best with snacks 🍕 and lo-fi beats 🎧
 
@@ -85,9 +85,11 @@
 
 ---
 
+### 🐍 Contribution Snake
 
-![Snake animation](https://github-readme-stats.vercel.app/api/github-contribution-grid?username=AryamanRathr0re&theme=tokyonight&snake=true)
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AryamanRathr0re/AryamanRathr0re/output/github-contribution-grid-snake.svg" />
+</p>
 
 ---
 

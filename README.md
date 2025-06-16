@@ -60,14 +60,17 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AryamanRathr0re&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AryamanRathr0re&show_icons=true&count_private=true&theme=tokyonight" />
 </p>
+
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AryamanRathr0re&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=AryamanRathr0re&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" />
 </p>
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AryamanRathr0re&layout=compact&theme=tokyonight" />
 </p>
+
 
 ---
 

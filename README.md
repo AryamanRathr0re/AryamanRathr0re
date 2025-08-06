@@ -26,8 +26,8 @@
 - 💬 Ask me about **DSA, Web Dev, and Scaling Projects**  
 - 📫 Reach me: **aryanrathore301@gmail.com**  
 - 📝 I write on [Dev.to](https://dev.to/)  
-- 👨‍💻 Check out my [Portfolio](https://aryamanrathore.dev)  
-- 📄 Here's my [Resume](https://aryamanrathore.dev/resume.pdf)  
+- 👨‍💻 Check out my [Portfolio](https://new-portfolio-ashy-five.vercel.app/)  
+- 📄 Here's my [Resume](https://drive.google.com/file/d/1YHVZaAiWB8AghzPsqXfc5XIXEvnySVcj/view?usp=drive_link)  
 - ⚡ Fun fact: I debug best with snacks 🍕 and lo-fi beats 🎧
 
 ---
@@ -35,7 +35,7 @@
 ### 🌐 Connect with Me
 
 <p align="left">
-  <a href="https://linkedin.com/in/aryamanrathore"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/aryaman-rathore-231a0b1a2/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
   <a href="mailto:aryanrathore301@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://twitter.com/aryaman_codes"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
 </p>
